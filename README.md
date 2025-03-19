@@ -98,6 +98,12 @@ Launch OpenStack Dashboard
 
 Access Horizon Dashboard using http://<your-server-ip>/dashboard.
 Log in with admin credentials.
+
 Result:
+
+![WhatsApp Image 2025-03-12 at 11 19 10_29d4d97c](https://github.com/user-attachments/assets/18220176-ac12-4603-abe3-b9207e8591b1)
+![WhatsApp Image 2025-03-12 at 11 19 19_be144439](https://github.com/user-attachments/assets/6dd5a99c-68ab-4a84-9a4b-0d14568da743)
+![WhatsApp Image 2025-03-12 at 11 19 13_1cb48ca6](https://github.com/user-attachments/assets/76886902-b4b5-42e4-8a74-9a5b370a8db7)
+![WhatsApp Image 2025-03-19 at 11 19 34_f00fdd0e](https://github.com/user-attachments/assets/02f2fb3a-dd1b-42a4-9b6b-b5244491f654)
 
 Successfully installed OpenStack and accessed the Horizon Dashboard.
